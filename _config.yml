@@ -1,8 +1,8 @@
 # Site settings
-title: Grayscale
-email: your-email@domain.com
+title: MercyLH Blogs
+email: 1500479344@qq.com
 url: https://example.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "本议题主要讨论当下前沿的分布式技术(rocket-mq、Nacos、Eureka、Spring-boot、Spring-cloud-alibaba等)，抽象设计相关思考，源码设计分析，算法基础。"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -23,7 +23,7 @@ social:
   - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://github.com/linghuchina
 
 # Build settings
 markdown: kramdown
